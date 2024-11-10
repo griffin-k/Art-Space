@@ -18,3 +18,12 @@
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/art-space-app.git
+
+
+
+   
+### Screenshot:
+
+```markdown
+![Art Space App Screenshot](https://raw.githubusercontent.com/griffin-k/Art-Space/refs/heads/main/Screenshot%202024-11-10%20at%2011.43.21%20AM.png)
+
