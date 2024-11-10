@@ -9,21 +9,19 @@
 - **Simple, Clean UI**: Built with Jetpack Compose, the app offers an intuitive and smooth user interface.
 - **Responsive Layout**: The app adapts to various screen sizes, making it accessible on phones and tablets.
 
+## Screenshots:
+Here’s a screenshot of the app interface:
+
+![Art Space App Screenshot](https://raw.githubusercontent.com/griffin-k/Art-Space/main/Screenshot%202024-11-10%20at%2011.43.21%20AM.png)
+
 ## Technologies Used:
 - **Kotlin**: The app is developed using Kotlin, providing a modern, concise, and robust language for Android development.
 - **Jetpack Compose**: The user interface is built using Jetpack Compose for a declarative and flexible design.
 - **Android SDK**: The app utilizes Android SDK components for effective image rendering and UI management.
 
 ## Installation:
+To run the app on your local machine:
+
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/art-space-app.git
-
-
-
-   
-### Screenshot:
-
-```markdown
-![Art Space App Screenshot](https://raw.githubusercontent.com/griffin-k/Art-Space/refs/heads/main/Screenshot%202024-11-10%20at%2011.43.21%20AM.png)
-
+   git clone https://github.com/griffin-k/Art-Space.git
